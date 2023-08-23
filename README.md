@@ -1,5 +1,5 @@
-<h3 align="center">Hello there!<br>I'm an enthusiastic Computer Science and Engineering (CSE) undergrad from<br>BRAC University in Bangladesh, with a passion for coding and all things tech</h3>
-<hr>
+<h1 align="center">Hi 👋, I'm Rakin!</h1>
+<h3 align="center">A passionate CSE Undergrad from BRAC University in Bangladesh.</h3>
 
 - 🌱 I’m currently learning **The MERN Stack**
 
@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/shakeef-ahmed-rakin-269548242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakeef-ahmed-rakin-269548242" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
