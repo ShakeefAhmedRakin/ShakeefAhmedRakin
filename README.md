@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakin!</h1>
 <h3 align="center">
-  A passionate CSE Undergrad from BRAC University in Bangladesh.
+  A passionate CSE Undergrad from <a href="https://www.bracu.ac.bd/">BRAC University</a> in Bangladesh.
 </h3>
 
 - 🌱 I’m currently learning **The MERN Stack**
