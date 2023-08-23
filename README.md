@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **The MERN Stack**
 - 📫 How to reach me **shakeef.rakin321@gmail.com**
 
+<h1 align="center"></h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/shakeef-ahmed-rakin-269548242" target="blank"
@@ -17,7 +18,7 @@
       width="40"
   /></a>
 </p>
-
+<h1 align="center"></h1>
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Front-end Development:</h4>
