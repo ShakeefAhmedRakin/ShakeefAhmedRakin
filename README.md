@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hello there! I'm an enthusiastic Computer Science and Engineering (CSE) undergrad from BRAC University in Bangladesh, with a passion for coding and all things tech.h</h3>
 
 - 🌱 I’m currently learning **The MERN Stack**
 
