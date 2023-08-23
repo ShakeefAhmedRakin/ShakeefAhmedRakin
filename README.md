@@ -1,5 +1,5 @@
-<h3 align="center">Hello there! I'm an enthusiastic Computer Science and Engineering (CSE) undergrad from<br>BRAC University in Bangladesh, with a passion for coding and all things tech</h3>
-
+<h3 align="center">Hello there!<br>I'm an enthusiastic Computer Science and Engineering (CSE) undergrad from<br>BRAC University in Bangladesh, with a passion for coding and all things tech</h3>
+<hr>
 - 🌱 I’m currently learning **The MERN Stack**
 
 - 📫 How to reach me **shakeef.rakin321@gmail.com**
