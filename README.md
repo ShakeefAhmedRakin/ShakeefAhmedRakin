@@ -135,13 +135,14 @@
 <p align="left">
   <img
     height="200"
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeefAhmedRakin&layout=compact&title_color=fb8c00&text_color=black&icon_color=007bff&bg_color=whitec28"
     alt="shakeefahmedrakin"
     />
+  <br>
   <img
     height="200"
-    align="right"
+    align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=shakeefahmedrakin&"
     alt="shakeefahmedrakin"
   />
