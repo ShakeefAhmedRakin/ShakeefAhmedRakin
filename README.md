@@ -48,6 +48,7 @@
       height="40"
     />
   </a>
+  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -56,6 +57,16 @@
       height="40"
     />
   </a>
+
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
+      alt="react"
+      height="40"
+    />
+  </a>
+
+  
 </p>
 <h4 align="left">Programming Languages:</h4>
 <p align="left">
