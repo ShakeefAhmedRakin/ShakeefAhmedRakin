@@ -2,8 +2,10 @@
 <h3 align="center">
   A passionate CSE Undergrad from <a href="https://www.bracu.ac.bd/">BRAC University</a> in Bangladesh.
 </h3>
+<p>
+  An aspiring web developer, I've recently immersed myself in the captivating realm of web development. My journey began with an insatiable curiosity about creating dynamic, user-centric digital solutions. Passionate about the MERN stack – from leveraging MongoDB's flexibility to architecting robust backends with Node.js and crafting interactive user interfaces using React. I'm thrilled about the endless possibilities this technology offers. Eager to collaborate and share insights within this ever-evolving tech landscape. Let's connect, learn, and create remarkable digital experiences together!
+</p>
 
-- 🌱 I’m currently learning **The MERN Stack**
 - 📫 How to reach me **shakeef.rakin321@gmail.com**
 
 <h1 align="center"></h1>
@@ -18,6 +20,11 @@
       width="40"
   /></a>
 </p>
+<h1 align="center"></h1>
+<h3 align="center">
+  What am I doing right now?
+</h3>
+<p>Currently, I'm expanding my horizons beyond the fundamental MERN stack. Having grasped its basics, I'm diving into advanced technologies such as Next.js and Redux.</p>
 <h1 align="center"></h1>
 <h3 align="left">Languages and Tools:</h3>
 
@@ -66,7 +73,80 @@
     />
   </a>
 
+  <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
+    <img
+      src="https://mui.com/static/logo.png"
+      alt="react"
+      height="40"
+    />
+  </a>
+
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png"
+      alt="react"
+      height="40"
+    />
+  </a>
+
+
   
+</p>
+
+<h4 align="left">Back-end Development:</h4>
+<p align="left">
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://seeklogo.com/images/J/jwt-logo-65D86B4640-seeklogo.com.png"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
+<h4 align="left">Database Management:</h4>
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdcpYo6-RmvRUQ1A3MawWiaSkDtHI6ueT8GYBsWWWFNmyHN6Y2f4VogxIMhiTB-AqQPxE&usqp=CAU"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 <h4 align="left">Programming Languages:</h4>
 <p align="left">
