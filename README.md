@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rakin!</h1>
+![Shakeef Ahmed Rakin](https://github.com/ShakeefAhmedRakin/ShakeefAhmedRakin/assets/112527326/238108bf-e118-4866-97f1-28f3cff6814b)
+
 <h3 align="center">
   A passionate CSE Undergrad from <a href="https://www.bracu.ac.bd/">BRAC University</a> in Bangladesh.
 </h3>
