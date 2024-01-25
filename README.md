@@ -1,4 +1,4 @@
-![Capture](https://github.com/ShakeefAhmedRakin/ShakeefAhmedRakin/assets/112527326/e18c091b-d99b-4259-9c08-c4cfa2e9f57b)
+![Capture](https://github.com/ShakeefAhmedRakin/ShakeefAhmedRakin/assets/112527326/91b05e3d-cc26-437a-b11e-18f536cba383)
 <h3 align="center">
   A passionate CSE Undergrad from <a href="https://www.bracu.ac.bd/">BRAC University</a> in Bangladesh.
 </h3>
