@@ -1,248 +1,87 @@
 ![Capture](https://github.com/ShakeefAhmedRakin/ShakeefAhmedRakin/assets/112527326/91b05e3d-cc26-437a-b11e-18f536cba383)
-<h3 align="center">
-  A passionate CSE Undergrad from <a href="https://www.bracu.ac.bd/">BRAC University</a> in Bangladesh.
-</h3>
-<p>
-  An aspiring web developer, I've recently immersed myself in the captivating realm of web development. My journey began with an insatiable curiosity about creating dynamic, user-centric digital solutions. Passionate about the MERN stack – from leveraging MongoDB's flexibility to architecting robust backends with Node.js and crafting interactive user interfaces using React. I'm thrilled about the endless possibilities this technology offers. Eager to collaborate and share insights within this ever-evolving tech landscape. Let's connect, learn, and create remarkable digital experiences together!
-</p>
 
-- 📫 How to reach me **shakeef.rakin321@gmail.com**
+<div align="left">
 
-<h1 align="center"></h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/shakeef-ahmed-rakin" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="shakeef-ahmed-rakin-269548242"
-      height="30"
-      width="40"
-  /></a>
-</p>
-<h1 align="center"></h1>
-<h3 align="center">
-  What am I doing right now?
-</h3>
-<p>Currently, I'm expanding my horizons beyond the fundamental MERN stack. Having grasped its basics, I'm diving into advanced technologies such as Next.js and Redux.</p>
-<h1 align="center"></h1>
-<h3 align="left">Languages and Tools:</h3>
-
-<h4 align="left">Front-end Development:</h4>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
+  <a href="https://www.linkedin.com/in/shakeef-ahmed-rakin/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="linkedin logo"  />
   </a>
+  <a href="shakeef.rakin321@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="gmail logo"  />
+  </a>
+</div>
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
+#
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="24" alt="python logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="24" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="24" alt="c logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="24" alt="php logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="24" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="24" alt="css3 logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="24" alt="tailwindcss logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="24" alt="bootstrap logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="24" alt="materialui logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white&style=for-the-badge" height="24" alt="materialui logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="24" alt="react logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=black&style=for-the-badge" height="24" alt="react router"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?logo=reacthookform&logoColor=black&style=for-the-badge" height="24" alt="react logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154g?logo=react%20query&logoColor=black&style=for-the-badge" height="24" alt="react logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/JWT-white?logo=JSON%20web%20tokens&logoColor=black&style=for-the-badge" height="24" alt="react logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge" height="24" alt="react logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=black&style=for-the-badge" height="24" alt="react logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="24" alt="firebase logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="24" alt="netlify logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="24" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="24" alt="express logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="24" alt="mongodb logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="24" alt="mysql logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="24" alt="vercel logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="24" alt="numpy logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="24" alt="numpy logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="24" alt="pandas logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="24" alt="opencv logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge" height="24" alt="opengl logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="24" alt="tensorflow logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge" height="24" alt="latex logo"  />
+</div>
+
+#
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakeefahmedrakin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakeefahmedrakin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=shakeefahmedrakin&locale=en&mode=daily&theme=graywhite&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
-      alt="react"
-      height="40"
-    />
-  </a>
-
-  <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
-    <img
-      src="https://mui.com/static/logo.png"
-      alt="react"
-      height="40"
-    />
-  </a>
-
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png"
-      alt="react"
-      height="40"
-    />
-  </a>
-
-
-  
-</p>
-
-<h4 align="left">Back-end Development:</h4>
-<p align="left">
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://seeklogo.com/images/J/jwt-logo-65D86B4640-seeklogo.com.png"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-<h4 align="left">Database Management:</h4>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdcpYo6-RmvRUQ1A3MawWiaSkDtHI6ueT8GYBsWWWFNmyHN6Y2f4VogxIMhiTB-AqQPxE&usqp=CAU"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-<h4 align="left">Programming Languages:</h4>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.cs.virginia.edu/~evans/cs216/guides/x86.html"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://img.icons8.com/wired/64/x86.png"
-      alt="x86"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a 
-    href="https://www.php.net" 
-    target="_blank" 
-    rel="noreferrer"> 
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
-      alt="php" width="40" 
-      height="40"/>
-</p>
-<h4 align="left">Database Management:</h4>
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-
-<h4 align="left">Machine Learning and Data Science:</h4>
-<p align="left">
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-      alt="scikit_learn"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-<h1 align="center"></h1>
-<p align="left">
-  <img
-    height="200"
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeefAhmedRakin&layout=compact&title_color=fb8c00&text_color=black&icon_color=007bff&bg_color=whitec28"
-    alt="shakeefahmedrakin"
-    />
-  <br>
-  <img
-    height="200"
-    align="left"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shakeefahmedrakin&"
-    alt="shakeefahmedrakin"
-  />
-</p>
+</div>
