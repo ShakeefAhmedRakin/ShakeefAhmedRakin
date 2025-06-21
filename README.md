@@ -11,5 +11,4 @@ Full Stack Engineer from Bangladesh, skilled in developing web applications and 
 #
 
 
-<img src="https://github.com/user-attachments/assets/4d0ed14c-3c4b-4e02-8b7f-6d9d17f52a12" height="80" width="100%"/>
 
