@@ -1,4 +1,5 @@
-![Github-banner](https://github.com/user-attachments/assets/1ea6bf2a-47af-4c2e-83ac-d7b010b0fee8)
+![1](https://github.com/user-attachments/assets/5b2cdb2d-870a-405e-a3be-dfd3c81fce11)
+
 
 # Hey, I'm Rakin!
 Full Stack Engineer from Bangladesh, skilled in developing web applications and integrating AI solutions. Experienced in machine learning projects, including natural language processing and computer vision.
@@ -6,9 +7,11 @@ Full Stack Engineer from Bangladesh, skilled in developing web applications and 
 
 🌐 **[Learn More About Me](https://shakeefahmedrakin.vercel.app/about)** &nbsp;&nbsp;&nbsp; 📖 **[Read My Blogs on Medium](https://medium.com/@shakeef.rakin321)**  
 
-</div>
-
 #
+
+![2](https://github.com/user-attachments/assets/796cbecf-5696-4b8b-8624-85802d40b69e)
+
+
 
 
 
