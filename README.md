@@ -2,7 +2,7 @@
 
 
 # Hey, I'm Rakin!
-Full Stack Engineer from Bangladesh, skilled in developing web applications and integrating AI solutions. Experienced in machine learning projects, including natural language processing and computer vision.
+Full Stack Engineer from Bangladesh, specializing in architecting scalable AI-driven applications across web, mobile, and desktop platforms. Experienced in end-to-end development from system design to deployment, balancing performance and user experience.
 <div align="left">
 
 🌐 **[Learn More About Me](https://shakeefahmedrakin.vercel.app/about)** &nbsp;&nbsp;&nbsp; 📖 **[Read My Blogs on Medium](https://medium.com/@shakeef.rakin321)**  
