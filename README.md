@@ -1,17 +1,17 @@
-![1](https://github.com/user-attachments/assets/5b2cdb2d-870a-405e-a3be-dfd3c81fce11)
-
-
-# Hey, I'm Rakin!
-Full Stack Engineer from Bangladesh, specializing in architecting scalable AI-driven applications across web, mobile, and desktop platforms. Experienced in end-to-end development from system design to deployment, balancing performance and user experience.
-<div align="left">
-
-🌐 **[Learn More About Me](https://shakeefahmedrakin.vercel.app/about)** &nbsp;&nbsp;&nbsp; 📖 **[Read My Blogs on Medium](https://medium.com/@shakeef.rakin321)**  
-
-#
-
-![2](https://github.com/user-attachments/assets/796cbecf-5696-4b8b-8624-85802d40b69e)
+<img width="514" height="423" alt="Gemini_Generated_Image_7nnv6t7nnv6t7nnv" src="https://github.com/user-attachments/assets/06f1cc7d-e745-4cff-b31e-4f74e488fc3f" />
 
 
 
+# Shakeef Ahmed Rakin
+Full Stack Engineer
 
+Senior Full Stack Engineer with over 2 years of professional experience and 4+ years of project depth. I architect end-to-end SaaS products across web, mobile, and desktop, and ship production-grade AI/ML pipelines.
 
+---
+
+### Connect
+
+* **Portfolio**: [shakeefahmedrakin.vercel.app](https://shakeefahmedrakin.vercel.app/)
+* **LinkedIn**: [linkedin/shakeef-ahmed-rakin](https://www.linkedin.com/in/shakeef-ahmed-rakin)
+* **Writing**: [medium.com/@shakeef.rakin321](https://medium.com/@shakeef.rakin321)
+* **Email**: shakeef.rakin321@gmail.com
