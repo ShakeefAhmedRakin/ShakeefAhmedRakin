@@ -1,4 +1,6 @@
-<img width="514" height="423" alt="Gemini_Generated_Image_7nnv6t7nnv6t7nnv" src="https://github.com/user-attachments/assets/06f1cc7d-e745-4cff-b31e-4f74e488fc3f" />
+<!-- <img width="514" height="423" alt="Gemini_Generated_Image_7nnv6t7nnv6t7nnv" src="https://github.com/user-attachments/assets/06f1cc7d-e745-4cff-b31e-4f74e488fc3f" /> -->
+
+<a href="https://app.daily.dev/shakeefahmedrakin"><img src="https://api.daily.dev/devcards/v2/HfCa07G0cBhIKZ0AAyW74.png?r=p6k&type=default" width="356" alt="Shakeef Ahmed Rakin's Dev Card"/></a>
 
 
 
