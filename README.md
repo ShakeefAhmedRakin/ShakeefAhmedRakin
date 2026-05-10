@@ -12,7 +12,7 @@ Senior Full Stack Engineer with over 2 years of professional experience and 4+ y
 
 ### Connect
 
-* **Portfolio**: [shakeefahmedrakin.vercel.app](https://shakeefahmedrakin.vercel.app/)
+* **Portfolio**: [shakeefahmedrakin.com](https://shakeefahmedrakin.com/)
 * **LinkedIn**: [linkedin/shakeef-ahmed-rakin](https://www.linkedin.com/in/shakeef-ahmed-rakin)
 * **Writing**: [medium.com/@shakeef.rakin321](https://medium.com/@shakeef.rakin321)
 * **Email**: shakeef.rakin321@gmail.com
